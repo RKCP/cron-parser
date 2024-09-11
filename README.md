@@ -17,7 +17,7 @@ The application is built using Java and Maven.
 
 #### 1. Clone the Repository
 
-`git clone <repository-url>`
+`git clone https://github.com/RKCP/cron-parser.git`
 
 `cd cronparser`
 
